@@ -44,7 +44,7 @@ The tutorial notebook is published under MIT license.
 ## Cite
 
 ### Plain Text
-Popescu, O. & Günther, W. & Hamed, R. & Rabel, M. & Coumou, D. and Runge, J. (2024). Understanding Drivers of Climate Extremes Using Regime-specific Causal Graphs [Tutorial]. In International Conference on Learning Representations. Climate Change AI.
+Popescu, O. & Günther, W. & Hamed, R. & Rabel, M. & Coumou, D. and Runge, J. (2024). Understanding Drivers of Climate Extremes Using Regime-specific Causal Graphs [Tutorial]. In International Conference on Learning Representations. Climate Change AI. https://doi.org/10.5281/zenodo.14608728
 
 ### BibTeX
 
@@ -55,7 +55,7 @@ Popescu, O. & Günther, W. & Hamed, R. & Rabel, M. & Coumou, D. and Runge, J. (2
   year={2024},
   organization={Climate Change AI},
   type={Tutorial},
-  doi={},
+  doi={https://doi.org/10.5281/zenodo.14608728},
   booktitle={International Conference on Learning Representations},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/climate-extremes-regime}}
 }
