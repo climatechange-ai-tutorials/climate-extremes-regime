@@ -19,7 +19,7 @@ Originally presented at ICLR 2024
 
 ## Access this tutorial
 
-We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://github.com/climatechange-ai-tutorials/climate-extremes-regime/blob/main/understanding_regimes.ipynb">
+We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/climate-extremes-regime/blob/main/understanding_regimes.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
